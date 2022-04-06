@@ -1,0 +1,2 @@
+# Collaborative-Code-Editor-with-Compiler
+Code Labs is a real-time interactive web-based lab made for students &amp; teachers/interviewers. On codelabs students can practice live programming and teachers can monitor them. Teachers/ interviewers can conduct coding contests, monitor students code at every stage and give suggestions. Students can run the code and check the output on our platform itself. The admin can download the code files of students that took part in their room/contest.
